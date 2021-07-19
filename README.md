@@ -5,6 +5,7 @@ Preface: these are not my photos -- provided to me by **Grand#6224** on Discord
 
 ## Interior 
 It looks to be on the same platform that the EVGA GT is--HEC is the OEM. DC-DC converters on a modular board with Half Bridge LLC resonsant circuit for stepping down our DC voltage.
+
 ![](https://i.imgur.com/0sFbgLb.jpeg)
 * Here is the main layout of the unit. From the bottom left, we can see the soldered onto a PCB part of the AC repactacle and beginnings of an EMI filter. We find a CM choke, and X + Y capacitor (very basic) on the board itself.
 
