@@ -16,13 +16,13 @@ It looks to be on the same platform that the EVGA GT is--HEC is the OEM. DC-DC c
 * Secondary / output capacitors from Teapo 
 
 ![](https://i.imgur.com/JkH6vMP.jpeg)
-* Bulk capacitor resonable for smoothing out the voltage ripple frmo the bridge rectifier. Voltage threshold of 400, 390uF capacitance from Chemi-con rated for 105C operation.
+* Bulk capacitor resonable for smoothing out the voltage ripple from the bridge rectifier. Voltage threshold of 400, 390uF capacitance from Chemi-con rated for 105C operation.
 
 ![](https://i.imgur.com/hDZoONj.jpeg)
 * Main winding for DC voltage stepdown -- commonly branded by EVGA. 
 
 ![](https://i.imgur.com/4ZT3AG1.jpeg)
-* Supervisor  IC is a Weltrend WT7527RA that hosts OCP, OVP, UVP, SCP, PG on its 16pin DIP.
+* Supervisor  IC is a Weltrend WT7527RA that hosts OCP, OVP, UVP, SCP, PG on its 16pin DIP. It's quite an uppertier one. Needless to say, testing will need to be done to prove that OTP is not only there as EVGA claims, but also functional (as goes for the rest of the unit's protections).
 
 ## Notes
 
