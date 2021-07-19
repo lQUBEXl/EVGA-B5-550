@@ -24,5 +24,7 @@ It looks to be on the same platform that the EVGA GT is--HEC is the OEM. DC-DC c
 ![](https://i.imgur.com/4ZT3AG1.jpeg)
 * Supervisor  IC is a Weltrend WT7527RA that hosts OCP, OVP, UVP, SCP, PG on its 16pin DIP. It's quite an uppertier one. Needless to say, testing will need to be done to prove that OTP is not only there as EVGA claims, but also functional (as goes for the rest of the unit's protections).
 
+![](https://i.imgur.com/9J7V7Rf.jpg)
+* Fan 
 ## Notes
 
